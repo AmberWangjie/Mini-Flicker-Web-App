@@ -4,7 +4,7 @@
 
 Run following command in your terminal:
 
-1. git clone https://github.com/zhewangjoe/mini-flickr.git
+1. git clone https://github.com/AmberWangjie/Mini-Flickr-Web-App.git
 2. cd mini-flickr
 3. npm install ( if npm is not installed, install Node.js)
 4. bower install ( if bower is not installed, run "npm install -g bower")
